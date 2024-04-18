@@ -1,0 +1,32 @@
+.rodape {
+    background-color: #6278F7;
+    background-image: url("fundo.png");
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 12rem;
+    background-size: 100vw;
+}
+
+.logo img{
+    width: 9rem;
+}
+
+.redes {
+    width: 12rem;
+}
+
+.redes ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.rede {
+    width: 1.3rem;
+    margin-right: 2rem;
+}
+
+.texto {
+    color: white;
+    font-size: 20px;
+}
