@@ -1,3 +1,3 @@
 # Organo
 
-## Projeto desenvolvido durante o curso React: desenvolvendo com JavaScript.
+### Projeto desenvolvido durante o curso "React: desenvolvendo com JavaScript".
