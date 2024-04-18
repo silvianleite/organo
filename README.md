@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Organo
+
+Projeto desenvolvido durante o curso "React: desenvolvendo com JavaScript".
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
